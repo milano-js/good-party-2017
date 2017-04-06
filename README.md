@@ -7,3 +7,9 @@ Apri una issue, inserisci come titolo quello del tuo talk e poi la relativa desc
 
 ## Come voto un talk?
 Nella descrizione del talk clicca su "add my reaction" e scegli :+1:
+
+## Quanto deve durare il mio talk?
+Il talk dovrà durare 10 minuti. Lo sappiamo, non è facile ma tu ce la puoi fare.
+
+## Di cosa posso parlare?
+L'ecosistema Javascript è piuttosto vasto, non farai fatica a trovare un argomento. Stupiscici!
