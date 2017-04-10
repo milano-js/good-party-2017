@@ -13,3 +13,6 @@ Il talk dovrà durare 10 minuti. Lo sappiamo, non è facile ma tu ce la puoi far
 
 ## Di cosa posso parlare?
 L'ecosistema Javascript è piuttosto vasto, non farai fatica a trovare un argomento. Stupiscici!
+
+---
+:no_entry_sign: **Ti preghiamo di NON fare annunci di lavoro durante il talk.** :no_entry_sign:
